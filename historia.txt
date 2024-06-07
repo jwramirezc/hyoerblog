@@ -1,11 +1,1 @@
 HOLA MUNDO MI PRIMER ARCHIVO EN GIT
-
-Después de borrado ese es el archivo contexto que voy a utilizar para aprender GIT.
-
-y además otro texto adicional para que se complemente.
-
-Voy a hacer un cambio en la linea 9
-ELIMINO ESTO Y QUEDA ASI EN DEVELOP
-este es un cambio posterior a un merge
-
-voy a probar el batch en ram otra vez
