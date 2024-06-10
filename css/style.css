@@ -1,4 +1,4 @@
-body{
+body {
 
     text-align: center;
     font-size: 1.5rem;
@@ -6,19 +6,25 @@ body{
     color: rgb(51, 48, 48);
 }
 
-#container{
-display: flex;
-align-items: center;
-margin: 3rem;
-font-size: 1rem;
-border: solid 1px;
-padding: 20px;
+#container {
+    display: flex;
+    align-items: center;
+    margin: 3rem;
+    font-size: 1rem;
+    border: solid 1px;
+    padding: 20px;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
-#post{
+#post {
     text-align: left;
 }
 
-#post .h2{
+#post .h2 {
     text-align: center;
+}
+
+#cabecera {
+    margin: 10px;
 }
