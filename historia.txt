@@ -2,7 +2,11 @@ HOLA MUNDO MI PRIMER ARCHIVO EN GIT
 
 a. en la fila 3
 b. en la fila 4
-c. en la fila 5 - develop
-d. en la fila 6 - develop
+c. en la fila 5 - master
+d. en la fila 6 - master
 e. en la fila 7 - master
 f. en la fila 8 - master
+9. en la fila 9 - develop
+10. en la fila 10 - develop
+11. en la fila 11 - develop
+12. en la fila 12 - develop
