@@ -45,7 +45,8 @@ body {
     padding-right: 1.5rem;
 }
 
-#cabecera img{
-    width: 3rem;
-    margin-right: 1rem;
+footer{
+    background-color: #050C9C;
+    color: white;
+    padding: 1px;
 }
