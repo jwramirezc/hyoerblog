@@ -50,3 +50,7 @@ footer{
     color: white;
     padding: 1px;
 }
+#cabecera img{
+    width: 3rem;
+    margin-right: 1.1rem;
+}
