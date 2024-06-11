@@ -4,6 +4,7 @@ body {
     font-size: 1.5rem;
     font-family: monospace;
     color: rgb(51, 48, 48);
+    background-color: #A7E6FF;
 }
 
 #container {
@@ -16,6 +17,7 @@ body {
     padding: 20px;
     flex-wrap: wrap;
     flex-direction: column;
+    background-color: #3ABEF9;
     box-shadow: 4px 3px 5px 0px rgba(115,115,115,0.88);
 -webkit-box-shadow: 4px 3px 5px 0px rgba(115,115,115,0.88);
 -moz-box-shadow: 4px 3px 5px 0px rgba(115,115,115,0.88);
@@ -29,12 +31,21 @@ body {
 
 #post .h2 {
     text-align: center;
+    background-color: #050C9C;
 }
 
 #cabecera {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     color: white;
     background-color: #3572EF;
     border-radius: 50px;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+}
+
+#cabecera img{
+    width: 3rem;
+    margin-right: 1rem;
 }
