@@ -31,4 +31,7 @@ git config --global user.email "tu.email@ejemplo.com"
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
+* Las personalidades múltiples de Jorge
+* Se adiciona otra fila al readme
+* Se adiciona otra fila 2 al readme
+* Se adiciona otra fila 3 al readme
